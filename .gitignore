@@ -1,1 +1,3 @@
 VS Code.code-workspace
+*.out
+.vscode
